@@ -1,5 +1,8 @@
 * KNIFE-310 "knife openstack server list" will fail with boot from volume instances
 
+## v0.8.2
+Openstack network param added in Where verison only.
+
 ## v0.8.1
 
 * KNIFE-296 knife-windows overrides -i, -p, -P and -x options with winrm values
